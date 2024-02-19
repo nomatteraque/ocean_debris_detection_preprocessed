@@ -1,0 +1,366 @@
+image 1/366 /content/debris_UCM-1/test/images/vid_000002_frame0000016_jpg.rf.d1f70ac300c48286117c60aa7786f930.jpg: 480x480 1 trash_clothing, 10.3ms
+image 2/366 /content/debris_UCM-1/test/images/vid_000003_frame0000019_jpg.rf.14bfe8a87f5f0f312102327248161d4b.jpg: 480x480 1 trash_clothing, 10.5ms
+image 3/366 /content/debris_UCM-1/test/images/vid_000003_frame0000023_jpg.rf.e6d13998c87171598438d159cd3659fb.jpg: 480x480 (no detections), 10.0ms
+image 4/366 /content/debris_UCM-1/test/images/vid_000022_frame0000014_jpg.rf.b18604f1179e4318462b6ecdeefd850c.jpg: 480x480 1 trash_branch, 9.8ms
+image 5/366 /content/debris_UCM-1/test/images/vid_000022_frame0000016_jpg.rf.2666131b54680d0f463081d20a35a145.jpg: 480x480 1 trash_branch, 7.4ms
+image 6/366 /content/debris_UCM-1/test/images/vid_000023_frame0000017_jpg.rf.457bc4009c3b889a1ed5f1284697647c.jpg: 480x480 1 trash_snack_wrapper, 7.1ms
+image 7/366 /content/debris_UCM-1/test/images/vid_000025_frame0000007_jpg.rf.10ebb9a5b64319139816822a028ead0d.jpg: 480x480 (no detections), 7.3ms
+image 8/366 /content/debris_UCM-1/test/images/vid_000025_frame0000011_jpg.rf.182c182f9cc51c976cc62ac468480dc8.jpg: 480x480 1 trash_container, 8.6ms
+image 9/366 /content/debris_UCM-1/test/images/vid_000028_frame0000013_jpg.rf.fab63c85837615f53a282823b2840968.jpg: 480x480 1 trash_branch, 7.2ms
+image 10/366 /content/debris_UCM-1/test/images/vid_000028_frame0000021_jpg.rf.21be7975c7ee04f72eb6a0cb664a40aa.jpg: 480x480 1 trash_branch, 7.3ms
+image 11/366 /content/debris_UCM-1/test/images/vid_000028_frame0000023_jpg.rf.230e8f75f2c22105d39fddc85547e4da.jpg: 480x480 1 trash_branch, 7.2ms
+image 12/366 /content/debris_UCM-1/test/images/vid_000028_frame0000026_jpg.rf.5ba2ce5052b9b715eba42bdf09e23096.jpg: 480x480 1 trash_branch, 6.9ms
+image 13/366 /content/debris_UCM-1/test/images/vid_000028_frame0000035_jpg.rf.60b311d8bef2eb80e5532ef5f989dbed.jpg: 480x480 1 trash_branch, 7.2ms
+image 14/366 /content/debris_UCM-1/test/images/vid_000030_frame0000006_jpg.rf.c96439a5cef16fffe35e376af52ba7a8.jpg: 480x480 1 rov, 7.0ms
+image 15/366 /content/debris_UCM-1/test/images/vid_000030_frame0000007_jpg.rf.43ec79fc5caa4ae1fc618bdcfc9350c5.jpg: 480x480 1 rov, 7.4ms
+image 16/366 /content/debris_UCM-1/test/images/vid_000031_frame0000047_jpg.rf.582ef0ed681244bf8312ae8aaac8244d.jpg: 480x480 1 rov, 7.2ms
+image 17/366 /content/debris_UCM-1/test/images/vid_000031_frame0000049_jpg.rf.1f25afbbc42c71b0286813e8978e710b.jpg: 480x480 1 rov, 6.8ms
+image 18/366 /content/debris_UCM-1/test/images/vid_000035_frame0000052_jpg.rf.31ca43ef7b829b10156ab90a649c894e.jpg: 480x480 1 rov, 1 trash_tarp, 6.7ms
+image 19/366 /content/debris_UCM-1/test/images/vid_000035_frame0000084_jpg.rf.39944f2ae2ddfcf4df7f67de47a39979.jpg: 480x480 1 plant, 1 rov, 2 trash_unknown_instances, 8.7ms
+image 20/366 /content/debris_UCM-1/test/images/vid_000035_frame0000113_jpg.rf.0f4fdf85965ff55cba8b8e33de6b6280.jpg: 480x480 1 animal_crab, 1 rov, 1 trash_unknown_instance, 7.6ms
+image 21/366 /content/debris_UCM-1/test/images/vid_000038_frame0000016_jpg.rf.a89c44e266efe2221e149742f2133b52.jpg: 480x480 1 trash_unknown_instance, 6.8ms
+image 22/366 /content/debris_UCM-1/test/images/vid_000038_frame0000023_jpg.rf.b4df2428cbe2920a8ac48ba7c2faa714.jpg: 480x480 1 trash_unknown_instance, 6.7ms
+image 23/366 /content/debris_UCM-1/test/images/vid_000040_frame0000001_jpg.rf.3be726a5438933a9b287cbde5e10a4d1.jpg: 480x480 1 rov, 6.8ms
+image 24/366 /content/debris_UCM-1/test/images/vid_000040_frame0000011_jpg.rf.db6ad36d168131f90c95b60464255820.jpg: 480x480 3 trash_unknown_instances, 9.2ms
+image 25/366 /content/debris_UCM-1/test/images/vid_000040_frame0000012_jpg.rf.90883d3774ca3c6d3d22f2073076fa3e.jpg: 480x480 3 trash_unknown_instances, 7.0ms
+image 26/366 /content/debris_UCM-1/test/images/vid_000041_frame0000014_jpg.rf.f480fee04db4c21fd9ecce4bc4a2c4aa.jpg: 480x480 1 trash_unknown_instance, 7.0ms
+image 27/366 /content/debris_UCM-1/test/images/vid_000042_frame0000010_jpg.rf.72d64a05e5b362208ad75b9d9e401ce1.jpg: 480x480 (no detections), 6.8ms
+image 28/366 /content/debris_UCM-1/test/images/vid_000045_frame0000002_jpg.rf.a3b28e9f0f6ab3e6d30f52413036ab88.jpg: 480x480 1 animal_eel, 1 animal_fish, 1 rov, 8.0ms
+image 29/366 /content/debris_UCM-1/test/images/vid_000045_frame0000010_jpg.rf.fadfc61156accce725b981a99d77a7bf.jpg: 480x480 1 rov, 6.7ms
+image 30/366 /content/debris_UCM-1/test/images/vid_000045_frame0000044_jpg.rf.feade16c26e7bc0b3f26ea829056326f.jpg: 480x480 1 rov, 1 trash_unknown_instance, 6.7ms
+image 31/366 /content/debris_UCM-1/test/images/vid_000045_frame0000048_jpg.rf.d6282e58d1537ce7a60749ae7465a6ff.jpg: 480x480 1 rov, 6.9ms
+image 32/366 /content/debris_UCM-1/test/images/vid_000046_frame0000003_jpg.rf.b18702c50ea93ed6136224c93005dba7.jpg: 480x480 1 rov, 6.7ms
+image 33/366 /content/debris_UCM-1/test/images/vid_000047_frame0000012_jpg.rf.b6671bcfd009cf8883e621a3c9343172.jpg: 480x480 1 rov, 1 trash_unknown_instance, 6.7ms
+image 34/366 /content/debris_UCM-1/test/images/vid_000047_frame0000024_jpg.rf.5c073b0ac40f12d6296cda65f92e3a0d.jpg: 480x480 1 rov, 6.7ms
+image 35/366 /content/debris_UCM-1/test/images/vid_000049_frame0000008_jpg.rf.a5c6999315ff867c5cd9ac11e9c3d572.jpg: 480x480 1 trash_unknown_instance, 6.8ms
+image 36/366 /content/debris_UCM-1/test/images/vid_000049_frame0000009_jpg.rf.f31a3daa72c33478f0c42ba508bd6cfe.jpg: 480x480 1 rov, 1 trash_unknown_instance, 6.9ms
+image 37/366 /content/debris_UCM-1/test/images/vid_000049_frame0000015_jpg.rf.d7cd2dbab1c1cbfa96dd4c2ea515a0e7.jpg: 480x480 1 trash_unknown_instance, 6.8ms
+image 38/366 /content/debris_UCM-1/test/images/vid_000050_frame0000010_jpg.rf.c532dadbb2bf50ef0a2a64ec94fd8ef3.jpg: 480x480 1 trash_unknown_instance, 7.0ms
+image 39/366 /content/debris_UCM-1/test/images/vid_000050_frame0000012_jpg.rf.0f5a5e22942959e5d70ee68255668c0e.jpg: 480x480 1 trash_unknown_instance, 6.8ms
+image 40/366 /content/debris_UCM-1/test/images/vid_000050_frame0000019_jpg.rf.1586a1387777b634ba224b0c10ed8cd5.jpg: 480x480 2 trash_unknown_instances, 8.5ms
+image 41/366 /content/debris_UCM-1/test/images/vid_000052_frame0000070_jpg.rf.b9f1fc806335abc0bbbf8ad26f12e50d.jpg: 480x480 1 rov, 1 trash_net, 1 trash_unknown_instance, 6.9ms
+image 42/366 /content/debris_UCM-1/test/images/vid_000052_frame0000087_jpg.rf.fc7d130bc500a7869c912fcccb707f2b.jpg: 480x480 1 rov, 1 trash_net, 1 trash_unknown_instance, 8.2ms
+image 43/366 /content/debris_UCM-1/test/images/vid_000055_frame0000080_jpg.rf.1c919026742ee8951009ba9e946d5f41.jpg: 480x480 3 rovs, 4 trash_nets, 6.9ms
+image 44/366 /content/debris_UCM-1/test/images/vid_000063_frame0000005_jpg.rf.66d2382d735757fa707e2265656071d5.jpg: 480x480 1 plant, 1 rov, 7.2ms
+image 45/366 /content/debris_UCM-1/test/images/vid_000072_frame0000024_jpg.rf.99d2c3811b0520244942cc195281a339.jpg: 480x480 1 rov, 1 trash_unknown_instance, 6.9ms
+image 46/366 /content/debris_UCM-1/test/images/vid_000074_frame0000025_jpg.rf.362fb54e13531815eabe58ae4bd45406.jpg: 480x480 1 rov, 1 trash_unknown_instance, 7.1ms
+image 47/366 /content/debris_UCM-1/test/images/vid_000074_frame0000032_jpg.rf.cfd22036f7a1f4ee18c92ba8305e96b1.jpg: 480x480 1 rov, 1 trash_unknown_instance, 7.5ms
+image 48/366 /content/debris_UCM-1/test/images/vid_000074_frame0000033_jpg.rf.1f76c12e984fcfedc183fb2171e7fde6.jpg: 480x480 1 rov, 1 trash_unknown_instance, 7.0ms
+image 49/366 /content/debris_UCM-1/test/images/vid_000074_frame0000034_jpg.rf.f97595c877aa1189a20df24d99c31c77.jpg: 480x480 1 rov, 1 trash_unknown_instance, 6.8ms
+image 50/366 /content/debris_UCM-1/test/images/vid_000074_frame0000040_jpg.rf.6ea6038859830d6cb3fadf5181ac16cc.jpg: 480x480 1 rov, 1 trash_unknown_instance, 9.6ms
+image 51/366 /content/debris_UCM-1/test/images/vid_000075_frame0000037_jpg.rf.660d9560388c6c22bc13e1cfdafdac8b.jpg: 480x480 (no detections), 6.8ms
+image 52/366 /content/debris_UCM-1/test/images/vid_000075_frame0000105_jpg.rf.c8fb4a09edaa67a882f193e6d762f661.jpg: 480x480 (no detections), 6.7ms
+image 53/366 /content/debris_UCM-1/test/images/vid_000076_frame0000028_jpg.rf.b4eca0b5d90111ed0c291928422af8c9.jpg: 480x480 1 trash_unknown_instance, 6.9ms
+image 54/366 /content/debris_UCM-1/test/images/vid_000077_frame0000018_jpg.rf.296f6a85e66fc082fa2fb2d82c828670.jpg: 480x480 1 trash_tarp, 7.0ms
+image 55/366 /content/debris_UCM-1/test/images/vid_000078_frame0000004_jpg.rf.4f101666bde7d21ae250da234feeb56e.jpg: 480x480 1 trash_unknown_instance, 6.7ms
+image 56/366 /content/debris_UCM-1/test/images/vid_000079_frame0000058_jpg.rf.285a7e998055697440fc5df896337a14.jpg: 480x480 1 trash_container, 6.8ms
+image 57/366 /content/debris_UCM-1/test/images/vid_000079_frame0000120_jpg.rf.2df096d75665f6054988b278fc078876.jpg: 480x480 1 plant, 6.7ms
+image 58/366 /content/debris_UCM-1/test/images/vid_000079_frame0000127_jpg.rf.612c08331ad8f69d99a4ce32c96d7f75.jpg: 480x480 (no detections), 7.0ms
+image 59/366 /content/debris_UCM-1/test/images/vid_000080_frame0000034_jpg.rf.ea2671f0a68a9184f367c6b89a1468ec.jpg: 480x480 1 trash_container, 6.6ms
+image 60/366 /content/debris_UCM-1/test/images/vid_000080_frame0000061_jpg.rf.7d575c8bd2381ea96f72ddd7b3835687.jpg: 480x480 1 trash_container, 6.6ms
+image 61/366 /content/debris_UCM-1/test/images/vid_000081_frame0000046_jpg.rf.655d13323fe8b41c566f93d0deaa0a72.jpg: 480x480 1 trash_unknown_instance, 6.8ms
+image 62/366 /content/debris_UCM-1/test/images/vid_000083_frame0000008_jpg.rf.ab05b572b0a34a8a73a23a2d0e7a7bbd.jpg: 480x480 1 trash_container, 6.8ms
+image 63/366 /content/debris_UCM-1/test/images/vid_000084_frame0000096_jpg.rf.dd8a971fd9511f49b09b58b21e5f6463.jpg: 480x480 1 trash_container, 6.8ms
+image 64/366 /content/debris_UCM-1/test/images/vid_000086_frame0000012_jpg.rf.bc6446a174495e47a39f36469023c8ec.jpg: 480x480 1 trash_unknown_instance, 7.2ms
+image 65/366 /content/debris_UCM-1/test/images/vid_000086_frame0000069_jpg.rf.5e1852a631ad7feee28627bb4e36d536.jpg: 480x480 2 rovs, 1 trash_unknown_instance, 7.0ms
+image 66/366 /content/debris_UCM-1/test/images/vid_000089_frame0000014_jpg.rf.1b6c74aec1ab7a9b99335fa20a430f70.jpg: 480x480 3 rovs, 1 trash_unknown_instance, 7.6ms
+image 67/366 /content/debris_UCM-1/test/images/vid_000089_frame0000024_jpg.rf.722ec4e3cec0c2c9cbe5633f76ed407f.jpg: 480x480 3 rovs, 1 trash_unknown_instance, 7.1ms
+image 68/366 /content/debris_UCM-1/test/images/vid_000090_frame0000066_jpg.rf.1981bf8ba00fbf653f01ceb2d48d6996.jpg: 480x480 1 trash_rope, 2 trash_unknown_instances, 7.8ms
+image 69/366 /content/debris_UCM-1/test/images/vid_000090_frame0000075_jpg.rf.a89de7906cdc673c8ce2719a74b5b926.jpg: 480x480 1 animal_starfish, 1 trash_rope, 1 trash_unknown_instance, 7.0ms
+image 70/366 /content/debris_UCM-1/test/images/vid_000090_frame0000084_jpg.rf.b50370f3bf5893017ac8a908f479cfc8.jpg: 480x480 3 trash_ropes, 1 trash_tarp, 2 trash_unknown_instances, 7.3ms
+image 71/366 /content/debris_UCM-1/test/images/vid_000095_frame0000021_jpg.rf.6fb694c4c993b674fba814981a5275c8.jpg: 480x480 3 rovs, 1 trash_net, 8.3ms
+image 72/366 /content/debris_UCM-1/test/images/vid_000098_frame0000012_jpg.rf.f027db42af2ea991ee91576cfd34fbef.jpg: 480x480 1 trash_rope, 1 trash_unknown_instance, 7.0ms
+image 73/366 /content/debris_UCM-1/test/images/vid_000101_frame0000002_jpg.rf.d7739185b32c7255f5d747b9b7afdd6d.jpg: 480x480 2 rovs, 7.2ms
+image 74/366 /content/debris_UCM-1/test/images/vid_000102_frame0000033_jpg.rf.5b5c23206b35dda52b66ae2ca21dce7f.jpg: 480x480 5 animal_crabs, 1 trash_container, 7.2ms
+image 75/366 /content/debris_UCM-1/test/images/vid_000104_frame0000010_jpg.rf.0f99fa9123042b91898707cabf0fc26a.jpg: 480x480 1 animal_eel, 2 rovs, 7.1ms
+image 76/366 /content/debris_UCM-1/test/images/vid_000105_frame0000002_jpg.rf.9c2ed1410cfbd1847a651e3c9b2f43e1.jpg: 480x480 2 rovs, 1 trash_can, 7.7ms
+image 77/366 /content/debris_UCM-1/test/images/vid_000106_frame0000007_jpg.rf.47ce35417144ed3f965f475c3be44513.jpg: 480x480 3 animal_starfishs, 1 plant, 7.1ms
+image 78/366 /content/debris_UCM-1/test/images/vid_000106_frame0000012_jpg.rf.2bf79cc5e9c8b64e2476c33077072d46.jpg: 480x480 3 animal_starfishs, 1 plant, 6.6ms
+image 79/366 /content/debris_UCM-1/test/images/vid_000106_frame0000019_jpg.rf.e0551572a04d892a919546be448711c3.jpg: 480x480 4 animal_starfishs, 1 plant, 6.6ms
+image 80/366 /content/debris_UCM-1/test/images/vid_000107_frame0000001_jpg.rf.915f7cee706342e58317f74f11562539.jpg: 480x480 1 trash_bottle, 2 trash_unknown_instances, 6.7ms
+image 81/366 /content/debris_UCM-1/test/images/vid_000108_frame0000004_jpg.rf.bfb3af6b6f790e1a0fc9be54daa5aedf.jpg: 480x480 1 animal_etc, 1 rov, 1 trash_can, 6.7ms
+image 82/366 /content/debris_UCM-1/test/images/vid_000108_frame0000022_jpg.rf.40eb11a8ce48d0a6eee253bfbd258f55.jpg: 480x480 1 animal_etc, 1 rov, 1 trash_can, 6.6ms
+image 83/366 /content/debris_UCM-1/test/images/vid_000109_frame0000006_jpg.rf.4af73134b0450c00c2c3a6fd0d55045f.jpg: 480x480 2 rovs, 1 trash_container, 8.3ms
+image 84/366 /content/debris_UCM-1/test/images/vid_000109_frame0000029_jpg.rf.0f04fa83aced2eb6fea1e89b926fe2bb.jpg: 480x480 2 rovs, 1 trash_container, 6.7ms
+image 85/366 /content/debris_UCM-1/test/images/vid_000110_frame0000008_jpg.rf.e07f01d7fcc60bea57c086f035d0bf94.jpg: 480x480 1 rov, 6.8ms
+image 86/366 /content/debris_UCM-1/test/images/vid_000111_frame0000009_jpg.rf.790d41e1a6f9fc226da72614c1360c70.jpg: 480x480 1 trash_bag, 7.2ms
+image 87/366 /content/debris_UCM-1/test/images/vid_000112_frame0000055_jpg.rf.90f076fce94c486642799d815c76ed6b.jpg: 480x480 1 trash_bottle, 6.9ms
+image 88/366 /content/debris_UCM-1/test/images/vid_000113_frame0000008_jpg.rf.69aed9415d508d4a09a2d5e22c7663ae.jpg: 480x480 1 trash_unknown_instance, 6.6ms
+image 89/366 /content/debris_UCM-1/test/images/vid_000114_frame0000056_jpg.rf.d7b1e82b89af0590b8c943a6ebe87158.jpg: 480x480 (no detections), 6.6ms
+image 90/366 /content/debris_UCM-1/test/images/vid_000117_frame0000014_jpg.rf.89597ecac84ac286384de80b0c340e1c.jpg: 480x480 1 trash_container, 6.7ms
+image 91/366 /content/debris_UCM-1/test/images/vid_000117_frame0000015_jpg.rf.d822e7383aaac841f4b76c6e1ad1b230.jpg: 480x480 1 trash_container, 6.7ms
+image 92/366 /content/debris_UCM-1/test/images/vid_000118_frame0000014_jpg.rf.bde1de90e61eedf329b513fd02561624.jpg: 480x480 1 rov, 1 trash_unknown_instance, 8.5ms
+image 93/366 /content/debris_UCM-1/test/images/vid_000119_frame0000013_jpg.rf.ff7d97523d22b74971cad1183f443325.jpg: 480x480 1 animal_etc, 1 trash_container, 6.9ms
+image 94/366 /content/debris_UCM-1/test/images/vid_000120_frame0000007_jpg.rf.e7312f9b9e56829bd5fa537baf03f1f8.jpg: 480x480 1 rov, 3 trash_unknown_instances, 6.8ms
+image 95/366 /content/debris_UCM-1/test/images/vid_000122_frame0000010_jpg.rf.908316d6b077bf13a19ca9f8f7a68d12.jpg: 480x480 2 rovs, 1 trash_unknown_instance, 7.5ms
+image 96/366 /content/debris_UCM-1/test/images/vid_000122_frame0000033_jpg.rf.e5859ce751b96761f68736fbe8860792.jpg: 480x480 1 rov, 1 trash_unknown_instance, 7.0ms
+image 97/366 /content/debris_UCM-1/test/images/vid_000122_frame0000062_jpg.rf.b1b938311dfb8e6a42f5be66d79f3536.jpg: 480x480 1 rov, 1 trash_unknown_instance, 6.6ms
+image 98/366 /content/debris_UCM-1/test/images/vid_000123_frame0000026_jpg.rf.60fb4b96819c36ba670ac5c8b8a76bfe.jpg: 480x480 1 rov, 1 trash_bag, 6.9ms
+image 99/366 /content/debris_UCM-1/test/images/vid_000125_frame0000017_jpg.rf.6271475c72a57f84189e281a3e847444.jpg: 480x480 1 rov, 1 trash_unknown_instance, 8.5ms
+image 100/366 /content/debris_UCM-1/test/images/vid_000126_frame0000017_jpg.rf.80977ab135a4e80e27c15adf641fafa9.jpg: 480x480 1 animal_etc, 1 rov, 6.6ms
+image 101/366 /content/debris_UCM-1/test/images/vid_000126_frame0000018_jpg.rf.d839c94b40842c6c0fb782d09ac57c21.jpg: 480x480 1 animal_etc, 1 rov, 6.7ms
+image 102/366 /content/debris_UCM-1/test/images/vid_000131_frame0000010_jpg.rf.a473bbc7678874b91953f49c888600d0.jpg: 480x480 1 rov, 1 trash_unknown_instance, 7.0ms
+image 103/366 /content/debris_UCM-1/test/images/vid_000132_frame0000001_jpg.rf.17794530941a7d43984e2b82358511d2.jpg: 480x480 1 animal_shells, 6.6ms
+image 104/366 /content/debris_UCM-1/test/images/vid_000132_frame0000017_jpg.rf.aec715041102f35a6bce15436afba9f3.jpg: 480x480 2 trash_unknown_instances, 7.3ms
+image 105/366 /content/debris_UCM-1/test/images/vid_000132_frame0000026_jpg.rf.62ea6496f0e0a599c98b5c74820711f6.jpg: 480x480 1 trash_unknown_instance, 6.5ms
+image 106/366 /content/debris_UCM-1/test/images/vid_000132_frame0000038_jpg.rf.0564131f01f27d97a96de4391eb1e739.jpg: 480x480 1 animal_shells, 6.8ms
+image 107/366 /content/debris_UCM-1/test/images/vid_000132_frame0000043_jpg.rf.67f93509f005d6cf2a9f7d6de5207b38.jpg: 480x480 4 animal_shellss, 7.3ms
+image 108/366 /content/debris_UCM-1/test/images/vid_000132_frame0000051_jpg.rf.0860ecde1fcb7781cbb78057be0d7585.jpg: 480x480 1 animal_shells, 1 plant, 1 trash_unknown_instance, 6.7ms
+image 109/366 /content/debris_UCM-1/test/images/vid_000132_frame0000053_jpg.rf.94f06b275ca75161a8c73bb5993a4c2f.jpg: 480x480 1 animal_shells, 1 plant, 7.3ms
+image 110/366 /content/debris_UCM-1/test/images/vid_000133_frame0000010_jpg.rf.87747f567c5feaa76b7d74cdcf16999f.jpg: 480x480 1 rov, 6.8ms
+image 111/366 /content/debris_UCM-1/test/images/vid_000133_frame0000020_jpg.rf.0519238877744678170cd0fc309ed0d1.jpg: 480x480 1 rov, 7.0ms
+image 112/366 /content/debris_UCM-1/test/images/vid_000138_frame0000022_jpg.rf.e9c8690111ba111e95875b005790b9a2.jpg: 480x480 1 rov, 1 trash_bag, 7.6ms
+image 113/366 /content/debris_UCM-1/test/images/vid_000139_frame0000003_jpg.rf.e4d0409447e1bf1a538334d5da3eb3a6.jpg: 480x480 2 animal_eels, 1 rov, 6.8ms
+image 114/366 /content/debris_UCM-1/test/images/vid_000140_frame0000012_jpg.rf.3437fa33d2a820dfe1258ac3f53656c3.jpg: 480x480 1 trash_can, 6.7ms
+image 115/366 /content/debris_UCM-1/test/images/vid_000140_frame0000022_jpg.rf.af845a78aa294722c2902e1b55a79e01.jpg: 480x480 1 trash_can, 9.2ms
+image 116/366 /content/debris_UCM-1/test/images/vid_000141_frame0000013_jpg.rf.b62c43219c6b92f0af0ac4366feccefd.jpg: 480x480 1 animal_shells, 2 rovs, 7.2ms
+image 117/366 /content/debris_UCM-1/test/images/vid_000142_frame0000006_jpg.rf.2a5ab2d1e74a3171a7252c1e4121ca53.jpg: 480x480 1 rov, 1 trash_bag, 1 trash_pipe, 6.9ms
+image 118/366 /content/debris_UCM-1/test/images/vid_000142_frame0000117_jpg.rf.c2917a9a0d040a6b07b91faca0d9dbdf.jpg: 480x480 1 trash_pipe, 6.9ms
+image 119/366 /content/debris_UCM-1/test/images/vid_000143_frame0000019_jpg.rf.af160b6011859a888c086f5dd269f4e0.jpg: 480x480 2 rovs, 1 trash_bag, 6.9ms
+image 120/366 /content/debris_UCM-1/test/images/vid_000143_frame0000027_jpg.rf.23863ed13b59bf4a0a8714ba3f433225.jpg: 480x480 2 rovs, 6.9ms
+image 121/366 /content/debris_UCM-1/test/images/vid_000143_frame0000041_jpg.rf.233486fc1564bcc7b20b82823aa8b9ae.jpg: 480x480 2 rovs, 6.9ms
+image 122/366 /content/debris_UCM-1/test/images/vid_000143_frame0000052_jpg.rf.256391d93733aab5be628104a0b251d9.jpg: 480x480 3 rovs, 7.0ms
+image 123/366 /content/debris_UCM-1/test/images/vid_000143_frame0000055_jpg.rf.23f1ee8ac911d7c8b376e6a719601127.jpg: 480x480 3 rovs, 9.8ms
+image 124/366 /content/debris_UCM-1/test/images/vid_000144_frame0000021_jpg.rf.a9048925c2e0e65e374fce76e40de242.jpg: 480x480 1 trash_bag, 6.8ms
+image 125/366 /content/debris_UCM-1/test/images/vid_000144_frame0000030_jpg.rf.34b469d72801650d7a5ca5d98d714af2.jpg: 480x480 1 trash_bag, 7.1ms
+image 126/366 /content/debris_UCM-1/test/images/vid_000144_frame0000043_jpg.rf.34686c69718dfb8de0111ba0ac815743.jpg: 480x480 1 trash_bag, 6.9ms
+image 127/366 /content/debris_UCM-1/test/images/vid_000144_frame0000044_jpg.rf.53dc6998be39d351ecf32d26e5541ec2.jpg: 480x480 1 trash_bag, 6.9ms
+image 128/366 /content/debris_UCM-1/test/images/vid_000145_frame0000004_jpg.rf.0a87c9259dd5150b9659a9cdb0ebb6c1.jpg: 480x480 2 rovs, 1 trash_can, 7.0ms
+image 129/366 /content/debris_UCM-1/test/images/vid_000145_frame0000029_jpg.rf.0f35516b20c4c64cba1198def3a7bc8c.jpg: 480x480 2 rovs, 6.9ms
+image 130/366 /content/debris_UCM-1/test/images/vid_000145_frame0000047_jpg.rf.1546eeaa139935b47305c1dfbe401376.jpg: 480x480 2 rovs, 7.6ms
+image 131/366 /content/debris_UCM-1/test/images/vid_000145_frame0000051_jpg.rf.5b62ec89afaf8a7936e33f5729aab3cb.jpg: 480x480 2 rovs, 10.8ms
+image 132/366 /content/debris_UCM-1/test/images/vid_000147_frame0000014_jpg.rf.dc39b52db562a4404af79135fe7c4f54.jpg: 480x480 1 rov, 7.5ms
+image 133/366 /content/debris_UCM-1/test/images/vid_000147_frame0000019_jpg.rf.19ce36119a28f8040fc0999dd1d2d0e5.jpg: 480x480 1 rov, 7.2ms
+image 134/366 /content/debris_UCM-1/test/images/vid_000148_frame0000015_jpg.rf.d659018c4bc16678e864fb87ece93875.jpg: 480x480 (no detections), 6.9ms
+image 135/366 /content/debris_UCM-1/test/images/vid_000148_frame0000025_jpg.rf.16bf99337a2cb6e335c00767a5a20d76.jpg: 480x480 1 trash_bag, 1 trash_container, 1 trash_rope, 7.0ms
+image 136/366 /content/debris_UCM-1/test/images/vid_000148_frame0000029_jpg.rf.e7ea6d61d231134abd33e294cfab1962.jpg: 480x480 1 trash_container, 7.3ms
+image 137/366 /content/debris_UCM-1/test/images/vid_000148_frame0000032_jpg.rf.a35d5353be3530b34c6641a2c069fd26.jpg: 480x480 1 trash_container, 1 trash_rope, 6.8ms
+image 138/366 /content/debris_UCM-1/test/images/vid_000148_frame0000080_jpg.rf.9645d09278d0f7d1b1149203610bf85a.jpg: 480x480 1 trash_container, 6.9ms
+image 139/366 /content/debris_UCM-1/test/images/vid_000149_frame0000001_jpg.rf.c14fd64593e9d2b2315d4c0c15f2ffa6.jpg: 480x480 1 trash_wreckage, 6.9ms
+image 140/366 /content/debris_UCM-1/test/images/vid_000150_frame0000001_jpg.rf.0f995d69c027414b2783a562d26c6439.jpg: 480x480 1 animal_etc, 2 trash_wreckages, 6.8ms
+image 141/366 /content/debris_UCM-1/test/images/vid_000150_frame0000015_jpg.rf.9747c8045d52fbe1445c4f002076619a.jpg: 480x480 1 animal_etc, 2 trash_wreckages, 6.9ms
+image 142/366 /content/debris_UCM-1/test/images/vid_000150_frame0000020_jpg.rf.91389a36451cf0f9f78f8c4e3a8ea28d.jpg: 480x480 1 animal_etc, 2 trash_wreckages, 6.8ms
+image 143/366 /content/debris_UCM-1/test/images/vid_000150_frame0000025_jpg.rf.508e9eba41029458da962f7af758606d.jpg: 480x480 1 animal_etc, 1 rov, 2 trash_wreckages, 6.7ms
+image 144/366 /content/debris_UCM-1/test/images/vid_000150_frame0000049_jpg.rf.84c8a0daab8e02efd537f5f9e8f13364.jpg: 480x480 1 trash_wreckage, 6.7ms
+image 145/366 /content/debris_UCM-1/test/images/vid_000151_frame0000015_jpg.rf.5f0a70008d9385a9dfb1465b9e4eefb1.jpg: 480x480 1 animal_etc, 1 rov, 9.7ms
+image 146/366 /content/debris_UCM-1/test/images/vid_000151_frame0000019_jpg.rf.c718a428c5a19b9a81e0081eb6de0c48.jpg: 480x480 1 animal_etc, 1 rov, 7.0ms
+image 147/366 /content/debris_UCM-1/test/images/vid_000151_frame0000025_jpg.rf.80f92a936343b089ea88fe6a964750fb.jpg: 480x480 1 animal_etc, 1 rov, 9.2ms
+image 148/366 /content/debris_UCM-1/test/images/vid_000152_frame0000027_jpg.rf.edf193df80143802b1cc92af45c8070d.jpg: 480x480 1 rov, 7.1ms
+image 149/366 /content/debris_UCM-1/test/images/vid_000152_frame0000028_jpg.rf.109b6e54b7b7e02279725a356b0831b3.jpg: 480x480 1 animal_fish, 1 rov, 7.0ms
+image 150/366 /content/debris_UCM-1/test/images/vid_000153_frame0000013_jpg.rf.109ce50e6f08baffb183459470ef0d79.jpg: 480x480 (no detections), 8.3ms
+image 151/366 /content/debris_UCM-1/test/images/vid_000154_frame0000001_jpg.rf.b50764f77d7b45a4f6472e5946d7b499.jpg: 480x480 1 animal_fish, 6.9ms
+image 152/366 /content/debris_UCM-1/test/images/vid_000154_frame0000007_jpg.rf.c7892a2da82dc19aca9f7c039a56bc8b.jpg: 480x480 1 animal_fish, 1 trash_unknown_instance, 7.0ms
+image 153/366 /content/debris_UCM-1/test/images/vid_000154_frame0000011_jpg.rf.d67da098561ee0a8c4330de33b2344ac.jpg: 480x480 (no detections), 6.9ms
+image 154/366 /content/debris_UCM-1/test/images/vid_000155_frame0000009_jpg.rf.f9b4535d6722b2635af8716464367780.jpg: 480x480 1 rov, 7.1ms
+image 155/366 /content/debris_UCM-1/test/images/vid_000155_frame0000033_jpg.rf.c5cd17b1c05d324e85218bb1a915e976.jpg: 480x480 1 rov, 1 trash_can, 7.2ms
+image 156/366 /content/debris_UCM-1/test/images/vid_000155_frame0000045_jpg.rf.6ca21d9edcf8b62a2015428d54eaec87.jpg: 480x480 1 rov, 1 trash_can, 6.7ms
+image 157/366 /content/debris_UCM-1/test/images/vid_000155_frame0000054_jpg.rf.68ef8074e7a55872fdb1004eba1b6042.jpg: 480x480 1 rov, 6.7ms
+image 158/366 /content/debris_UCM-1/test/images/vid_000155_frame0000056_jpg.rf.0f4ad28d9d0b8328b219794db52e8dff.jpg: 480x480 1 rov, 7.8ms
+image 159/366 /content/debris_UCM-1/test/images/vid_000155_frame0000057_jpg.rf.90073dcf69413fcaebf5f35255fdc5f5.jpg: 480x480 2 rovs, 1 trash_can, 6.8ms
+image 160/366 /content/debris_UCM-1/test/images/vid_000156_frame0000012_jpg.rf.ea9ea9153868dc83667f46cbd904dc3a.jpg: 480x480 2 rovs, 8.9ms
+image 161/366 /content/debris_UCM-1/test/images/vid_000156_frame0000032_jpg.rf.dcc1a6bef89e7e184a01cec9d42523e7.jpg: 480x480 2 rovs, 6.8ms
+image 162/366 /content/debris_UCM-1/test/images/vid_000158_frame0000009_jpg.rf.186d24f7bde43f5be2acc3097e333990.jpg: 480x480 1 rov, 7.1ms
+image 163/366 /content/debris_UCM-1/test/images/vid_000158_frame0000020_jpg.rf.319ad25490b3e88d8b00d29543d65367.jpg: 480x480 2 rovs, 1 trash_bag, 7.1ms
+image 164/366 /content/debris_UCM-1/test/images/vid_000158_frame0000030_jpg.rf.9a33c2f60d38530017583b8f49245c93.jpg: 480x480 2 rovs, 1 trash_bag, 6.9ms
+image 165/366 /content/debris_UCM-1/test/images/vid_000158_frame0000032_jpg.rf.8664ae267e5eef148a9d99edf4ae6ef7.jpg: 480x480 2 rovs, 1 trash_bag, 7.0ms
+image 166/366 /content/debris_UCM-1/test/images/vid_000158_frame0000066_jpg.rf.34ad9172585fd46591b0969e65902cb7.jpg: 480x480 2 rovs, 1 trash_bag, 6.9ms
+image 167/366 /content/debris_UCM-1/test/images/vid_000158_frame0000068_jpg.rf.fac4a2dfecc8d6e4edafc20aecf713e5.jpg: 480x480 2 rovs, 1 trash_bag, 7.2ms
+image 168/366 /content/debris_UCM-1/test/images/vid_000159_frame0000001_jpg.rf.d4853f1559bac82a9aefa05b7aa94fa6.jpg: 480x480 1 rov, 6.7ms
+image 169/366 /content/debris_UCM-1/test/images/vid_000159_frame0000011_jpg.rf.187f47f3151d5657895646ad683bbd87.jpg: 480x480 1 rov, 9.4ms
+image 170/366 /content/debris_UCM-1/test/images/vid_000162_frame0000003_jpg.rf.1b98464a993139d4e04b6385906931c9.jpg: 480x480 1 rov, 6.7ms
+image 171/366 /content/debris_UCM-1/test/images/vid_000162_frame0000043_jpg.rf.ae0c217974878e576dea2ab5d830810b.jpg: 480x480 1 rov, 1 trash_bag, 6.7ms
+image 172/366 /content/debris_UCM-1/test/images/vid_000163_frame0000012_jpg.rf.c0d89cca626f90729fe660edaf051ebf.jpg: 480x480 1 trash_bag, 6.8ms
+image 173/366 /content/debris_UCM-1/test/images/vid_000166_frame0000007_jpg.rf.d17a3336e1fc0bde25fc6b3badfbd877.jpg: 480x480 1 rov, 6.5ms
+image 174/366 /content/debris_UCM-1/test/images/vid_000172_frame0000005_jpg.rf.300aff51262226f0d1df82264706f970.jpg: 480x480 1 rov, 1 trash_bag, 10.3ms
+image 175/366 /content/debris_UCM-1/test/images/vid_000172_frame0000010_jpg.rf.5eef56afd093161895df2e0bf511983c.jpg: 480x480 1 rov, 1 trash_bag, 6.9ms
+image 176/366 /content/debris_UCM-1/test/images/vid_000172_frame0000015_jpg.rf.f03521d1c049d3bac00ad95de7134825.jpg: 480x480 1 trash_bag, 6.7ms
+image 177/366 /content/debris_UCM-1/test/images/vid_000173_frame0000001_jpg.rf.225e5df63397006adc7f241b481e64a4.jpg: 480x480 1 rov, 6.7ms
+image 178/366 /content/debris_UCM-1/test/images/vid_000204_frame0000003_jpg.rf.a27e71a5709f13a8fa2c6b5ef721e3e5.jpg: 480x480 1 trash_unknown_instance, 7.1ms
+image 179/366 /content/debris_UCM-1/test/images/vid_000204_frame0000010_jpg.rf.05370d3f6a45eb200b5ad6fee21f0217.jpg: 480x480 1 trash_container, 1 trash_unknown_instance, 7.5ms
+image 180/366 /content/debris_UCM-1/test/images/vid_000205_frame0000025_jpg.rf.c661cea16326fe6f6f91edb2e51d120c.jpg: 480x480 1 trash_unknown_instance, 9.0ms
+image 181/366 /content/debris_UCM-1/test/images/vid_000205_frame0000052_jpg.rf.b86799e50b2e415d9d93d69b5fff992d.jpg: 480x480 (no detections), 7.0ms
+image 182/366 /content/debris_UCM-1/test/images/vid_000207_frame0000014_jpg.rf.d68bce0ed9e8a5622a07b62657ad5038.jpg: 480x480 1 trash_unknown_instance, 6.9ms
+image 183/366 /content/debris_UCM-1/test/images/vid_000208_frame0000012_jpg.rf.97c227f1aa0332fe2a683eee1d15f4af.jpg: 480x480 1 trash_unknown_instance, 6.8ms
+image 184/366 /content/debris_UCM-1/test/images/vid_000209_frame0000008_jpg.rf.83643ea780dc8c9c8f3007014e359f38.jpg: 480x480 1 rov, 6.9ms
+image 185/366 /content/debris_UCM-1/test/images/vid_000210_frame0000084_jpg.rf.3cf35072531a7cbc118fbd8101be1707.jpg: 480x480 1 trash_pipe, 7.0ms
+image 186/366 /content/debris_UCM-1/test/images/vid_000211_frame0000017_jpg.rf.46f46769b807eacae22d376a8eaca2c6.jpg: 480x480 1 trash_unknown_instance, 6.9ms
+image 187/366 /content/debris_UCM-1/test/images/vid_000211_frame0000019_jpg.rf.e3522a2bc29e6c6328fb2658ad401d4a.jpg: 480x480 1 trash_unknown_instance, 6.7ms
+image 188/366 /content/debris_UCM-1/test/images/vid_000235_frame0000020_jpg.rf.b3611c690f9816da20560e62ecba9bfd.jpg: 480x480 1 trash_branch, 7.1ms
+image 189/366 /content/debris_UCM-1/test/images/vid_000236_frame0000012_jpg.rf.8c33e51a2170dc7c2c10309de04ff63c.jpg: 480x480 1 trash_branch, 6.9ms
+image 190/366 /content/debris_UCM-1/test/images/vid_000236_frame0000030_jpg.rf.f7848a6f249453ce6db668740a15e650.jpg: 480x480 1 trash_branch, 7.5ms
+image 191/366 /content/debris_UCM-1/test/images/vid_000239_frame0000065_jpg.rf.765eda947d80a900f202e4e233a44acd.jpg: 480x480 1 trash_branch, 7.0ms
+image 192/366 /content/debris_UCM-1/test/images/vid_000242_frame0000055_jpg.rf.d1ad300c7cc4aaaf2e496ff58034ebef.jpg: 480x480 1 plant, 6.9ms
+image 193/366 /content/debris_UCM-1/test/images/vid_000244_frame0000005_jpg.rf.cc110b667ba1b8392b6447f0b75bf2ee.jpg: 480x480 (no detections), 6.8ms
+image 194/366 /content/debris_UCM-1/test/images/vid_000244_frame0000007_jpg.rf.c26c40b2088b3d2520c72ae1f477d77a.jpg: 480x480 (no detections), 6.8ms
+image 195/366 /content/debris_UCM-1/test/images/vid_000249_frame0000048_jpg.rf.1172c58bbec05a421b1fd757a0ea9d9f.jpg: 480x480 1 rov, 9.7ms
+image 196/366 /content/debris_UCM-1/test/images/vid_000251_frame0000002_jpg.rf.c4579466aa4808402e819634ef996fb6.jpg: 480x480 1 animal_crab, 1 rov, 1 trash_branch, 8.7ms
+image 197/366 /content/debris_UCM-1/test/images/vid_000251_frame0000006_jpg.rf.4479f430b61ad352df67c107569b7bc0.jpg: 480x480 1 animal_crab, 2 trash_branchs, 6.7ms
+image 198/366 /content/debris_UCM-1/test/images/vid_000251_frame0000008_jpg.rf.a2b415ccf280b0cb665137e2fadf4780.jpg: 480x480 1 rov, 1 trash_branch, 6.7ms
+image 199/366 /content/debris_UCM-1/test/images/vid_000251_frame0000019_jpg.rf.1e0db29637b912a71558368ad55b41a3.jpg: 480x480 1 trash_branch, 7.0ms
+image 200/366 /content/debris_UCM-1/test/images/vid_000251_frame0000034_jpg.rf.f7d0e592c461404c9a241c5bbbc9abd7.jpg: 480x480 1 trash_branch, 9.9ms
+image 201/366 /content/debris_UCM-1/test/images/vid_000251_frame0000041_jpg.rf.aeec66d3f993fb3f0498e985f2f77f2b.jpg: 480x480 1 trash_branch, 7.5ms
+image 202/366 /content/debris_UCM-1/test/images/vid_000252_frame0000025_jpg.rf.bbe5556f4f4372c89fb6bd96163f5144.jpg: 480x480 1 rov, 9.1ms
+image 203/366 /content/debris_UCM-1/test/images/vid_000254_frame0000011_jpg.rf.3f3a8639d6a5a10950e1ee0abba15b88.jpg: 480x480 (no detections), 7.3ms
+image 204/366 /content/debris_UCM-1/test/images/vid_000255_frame0000020_jpg.rf.e02ac0607b441a251ed7981ffcb8ea1e.jpg: 480x480 1 trash_bag, 6.9ms
+image 205/366 /content/debris_UCM-1/test/images/vid_000255_frame0000023_jpg.rf.d6a72d9578f56acc4322a43c691baac2.jpg: 480x480 1 trash_bag, 6.9ms
+image 206/366 /content/debris_UCM-1/test/images/vid_000255_frame0000031_jpg.rf.c6ec92e5ab826354639dfcfde96e35dd.jpg: 480x480 1 trash_bag, 8.0ms
+image 207/366 /content/debris_UCM-1/test/images/vid_000255_frame0000092_jpg.rf.775de8a0fac4ab0ae7e9d7066d6bf09f.jpg: 480x480 1 trash_bag, 6.8ms
+image 208/366 /content/debris_UCM-1/test/images/vid_000257_frame0000019_jpg.rf.5b8e07b5391ef4ba173bafefcdb5bb76.jpg: 480x480 1 trash_unknown_instance, 7.2ms
+image 209/366 /content/debris_UCM-1/test/images/vid_000260_frame0000010_jpg.rf.d70d1c1113ccf549c3d9554c54f4aaca.jpg: 480x480 1 rov, 6.8ms
+image 210/366 /content/debris_UCM-1/test/images/vid_000260_frame0000026_jpg.rf.c5096c755a4db8a3516a2ef0d5b14e51.jpg: 480x480 1 rov, 6.8ms
+image 211/366 /content/debris_UCM-1/test/images/vid_000263_frame0000013_jpg.rf.fcd60c6e9acab9cfde09adc68f25a268.jpg: 480x480 1 trash_unknown_instance, 6.8ms
+image 212/366 /content/debris_UCM-1/test/images/vid_000264_frame0000014_jpg.rf.3cd2bcb6aef56ddece49ad337a5abce4.jpg: 480x480 1 trash_unknown_instance, 7.0ms
+image 213/366 /content/debris_UCM-1/test/images/vid_000264_frame0000063_jpg.rf.3906100f78b78e20a2d3fcbe1ba77d47.jpg: 480x480 1 trash_unknown_instance, 6.7ms
+image 214/366 /content/debris_UCM-1/test/images/vid_000264_frame0000063_jpg.rf.bd2e8b0609c7296b88c3ddff326a55ae.jpg: 480x480 1 trash_unknown_instance, 6.8ms
+image 215/366 /content/debris_UCM-1/test/images/vid_000264_frame0000071_jpg.rf.2a43bf32e449a2bed01c4cac142c730d.jpg: 480x480 1 trash_branch, 6.7ms
+image 216/366 /content/debris_UCM-1/test/images/vid_000264_frame0000071_jpg.rf.478077b8ff7f4713e657a227e15d0388.jpg: 480x480 1 trash_branch, 9.5ms
+image 217/366 /content/debris_UCM-1/test/images/vid_000266_frame0000014_jpg.rf.24a33dcbaf6c3debbfa32f16dc434609.jpg: 480x480 1 trash_can, 7.2ms
+image 218/366 /content/debris_UCM-1/test/images/vid_000266_frame0000014_jpg.rf.311bc6b81b943f7d89a4b8f1f3f391aa.jpg: 480x480 1 trash_can, 7.5ms
+image 219/366 /content/debris_UCM-1/test/images/vid_000267_frame0000005_jpg.rf.cfe19467777e9f39ed90b90d744fbc09.jpg: 480x480 1 trash_unknown_instance, 6.9ms
+image 220/366 /content/debris_UCM-1/test/images/vid_000267_frame0000005_jpg.rf.d2e54b93b98fb5a85d736077754f33b2.jpg: 480x480 1 trash_unknown_instance, 7.7ms
+image 221/366 /content/debris_UCM-1/test/images/vid_000267_frame0000016_jpg.rf.3d03a7aa0226fc67b166584db7fab9c5.jpg: 480x480 1 rov, 1 trash_unknown_instance, 7.3ms
+image 222/366 /content/debris_UCM-1/test/images/vid_000267_frame0000016_jpg.rf.656861e69f339d11f2e171522b8a4460.jpg: 480x480 1 rov, 1 trash_unknown_instance, 6.7ms
+image 223/366 /content/debris_UCM-1/test/images/vid_000269_frame0000016_jpg.rf.daef8e36f4264685a8fbedeb9c2463f6.jpg: 480x480 1 trash_unknown_instance, 6.6ms
+image 224/366 /content/debris_UCM-1/test/images/vid_000270_frame0000014_jpg.rf.d070fbdce27e5b28b7b6ce071cf420e9.jpg: 480x480 1 trash_pipe, 6.9ms
+image 225/366 /content/debris_UCM-1/test/images/vid_000270_frame0000043_jpg.rf.bff166a4c47917fe22e756d24e4877bd.jpg: 480x480 1 trash_pipe, 6.7ms
+image 226/366 /content/debris_UCM-1/test/images/vid_000270_frame0000049_jpg.rf.590fb188bd0cd3edfde0baed84c5be56.jpg: 480x480 1 trash_pipe, 6.6ms
+image 227/366 /content/debris_UCM-1/test/images/vid_000271_frame0000003_jpg.rf.c28649affbd2d41d8f8f6353cb5912f9.jpg: 480x480 (no detections), 6.6ms
+image 228/366 /content/debris_UCM-1/test/images/vid_000271_frame0000011_jpg.rf.a2dc8db94bf5905db44fa0c7b6553dfb.jpg: 480x480 1 trash_container, 6.7ms
+image 229/366 /content/debris_UCM-1/test/images/vid_000271_frame0000019_jpg.rf.1d2b625b8fc1c300b844f03769edace7.jpg: 480x480 2 trash_containers, 7.1ms
+image 230/366 /content/debris_UCM-1/test/images/vid_000273_frame0000003_jpg.rf.faa2be44e4af9b2c37b3ffbba84f0a15.jpg: 480x480 1 rov, 6.9ms
+image 231/366 /content/debris_UCM-1/test/images/vid_000274_frame0000007_jpg.rf.0f12c472abc3bfccc0b7b8e068babb74.jpg: 480x480 (no detections), 7.2ms
+image 232/366 /content/debris_UCM-1/test/images/vid_000274_frame0000009_jpg.rf.e251ffc02b8db0d7c3dce9170a6cbdae.jpg: 480x480 (no detections), 7.0ms
+image 233/366 /content/debris_UCM-1/test/images/vid_000275_frame0000026_jpg.rf.70b5881c955917eb8f6c8f6e9ec2a8dd.jpg: 480x480 1 rov, 1 trash_clothing, 7.0ms
+image 234/366 /content/debris_UCM-1/test/images/vid_000277_frame0000024_jpg.rf.41739245131afd40209c9b2075e9b78b.jpg: 480x480 1 trash_bottle, 7.0ms
+image 235/366 /content/debris_UCM-1/test/images/vid_000278_frame0000010_jpg.rf.4570495e399bc9a7456aecf464240a17.jpg: 480x480 1 trash_bag, 6.7ms
+image 236/366 /content/debris_UCM-1/test/images/vid_000279_frame0000003_jpg.rf.bf3f9c59a052e5cba03ef9fd0c84e85d.jpg: 480x480 1 trash_bag, 6.9ms
+image 237/366 /content/debris_UCM-1/test/images/vid_000280_frame0000004_jpg.rf.adb6cac9b45bab23b53b019277ab9741.jpg: 480x480 1 rov, 6.9ms
+image 238/366 /content/debris_UCM-1/test/images/vid_000281_frame0000023_jpg.rf.7cc953554bfe1799e2b1b69273c60216.jpg: 480x480 1 trash_container, 7.0ms
+image 239/366 /content/debris_UCM-1/test/images/vid_000282_frame0000034_jpg.rf.e4873f8d0e9eeb3f9aaa37e7c63ffee8.jpg: 480x480 1 trash_branch, 7.8ms
+image 240/366 /content/debris_UCM-1/test/images/vid_000283_frame0000009_jpg.rf.a4a9500827b3dc16a577a725cbaeea94.jpg: 480x480 1 trash_rope, 6.9ms
+image 241/366 /content/debris_UCM-1/test/images/vid_000283_frame0000015_jpg.rf.10f1dc3968c8b671531e2e2ae8c9ff7d.jpg: 480x480 1 trash_rope, 6.8ms
+image 242/366 /content/debris_UCM-1/test/images/vid_000283_frame0000017_jpg.rf.c15b333578741694809a1d38f935d259.jpg: 480x480 2 trash_ropes, 6.7ms
+image 243/366 /content/debris_UCM-1/test/images/vid_000283_frame0000074_jpg.rf.fba7b2579248d19f0f9285fda1384b4e.jpg: 480x480 (no detections), 6.9ms
+image 244/366 /content/debris_UCM-1/test/images/vid_000284_frame0000023_jpg.rf.eaa962b04e9a6316d34d9ed05772e298.jpg: 480x480 1 trash_container, 6.8ms
+image 245/366 /content/debris_UCM-1/test/images/vid_000284_frame0000025_jpg.rf.5d1962470528819120d0589bf7c098ce.jpg: 480x480 1 trash_container, 7.1ms
+image 246/366 /content/debris_UCM-1/test/images/vid_000284_frame0000061_jpg.rf.7e49c59d6e04996e551dd01841e06422.jpg: 480x480 1 trash_container, 7.0ms
+image 247/366 /content/debris_UCM-1/test/images/vid_000285_frame0000007_jpg.rf.b4b037790f4a901796487a8afd52fd8e.jpg: 480x480 2 plants, 6.7ms
+image 248/366 /content/debris_UCM-1/test/images/vid_000285_frame0000091_jpg.rf.a4b9912796bd9606ca04987e0e5b3ba4.jpg: 480x480 1 plant, 1 rov, 11.1ms
+image 249/366 /content/debris_UCM-1/test/images/vid_000285_frame0000095_jpg.rf.24a8bba8a852e14cc307422980e66be8.jpg: 480x480 1 plant, 1 rov, 7.6ms
+image 250/366 /content/debris_UCM-1/test/images/vid_000285_frame0000114_jpg.rf.33f10f7972e85fb27b6a5eb667aa9369.jpg: 480x480 1 plant, 1 rov, 6.9ms
+image 251/366 /content/debris_UCM-1/test/images/vid_000285_frame0000121_jpg.rf.64876654bb83302053a90b022fbb21e3.jpg: 480x480 1 plant, 1 rov, 6.9ms
+image 252/366 /content/debris_UCM-1/test/images/vid_000285_frame0000123_jpg.rf.8c3d8c6f7fe9c536d15b112fb1f0bac0.jpg: 480x480 1 plant, 1 rov, 7.1ms
+image 253/366 /content/debris_UCM-1/test/images/vid_000285_frame0000143_jpg.rf.2b5925245370103f564d803454d89779.jpg: 480x480 1 plant, 1 rov, 10.8ms
+image 254/366 /content/debris_UCM-1/test/images/vid_000285_frame0000158_jpg.rf.5910ba926cbf1d89d85b6c04d0c0ade8.jpg: 480x480 1 plant, 1 rov, 7.0ms
+image 255/366 /content/debris_UCM-1/test/images/vid_000285_frame0000185_jpg.rf.1e928cbdef1a3ac0c98c2d95af7a9f10.jpg: 480x480 1 plant, 1 rov, 7.9ms
+image 256/366 /content/debris_UCM-1/test/images/vid_000286_frame0000002_jpg.rf.0a3ef305035295f74c1ca97af7257b7a.jpg: 480x480 1 trash_unknown_instance, 7.2ms
+image 257/366 /content/debris_UCM-1/test/images/vid_000286_frame0000015_jpg.rf.fe619a9d9f5e41d98e70c62b2f7b8245.jpg: 480x480 1 trash_unknown_instance, 6.8ms
+image 258/366 /content/debris_UCM-1/test/images/vid_000288_frame0000007_jpg.rf.c111903cf6f6bf1554a21cc2a4bd1576.jpg: 480x480 1 trash_unknown_instance, 6.9ms
+image 259/366 /content/debris_UCM-1/test/images/vid_000288_frame0000018_jpg.rf.e04c61f748a4f56c58e5f83ab9907d53.jpg: 480x480 1 trash_unknown_instance, 8.8ms
+image 260/366 /content/debris_UCM-1/test/images/vid_000288_frame0000022_jpg.rf.2465c7c92b120c85b45af01032f685b5.jpg: 480x480 1 trash_unknown_instance, 6.9ms
+image 261/366 /content/debris_UCM-1/test/images/vid_000288_frame0000058_jpg.rf.18fc261ff4d014267ee49e26ce47a049.jpg: 480x480 1 trash_unknown_instance, 7.4ms
+image 262/366 /content/debris_UCM-1/test/images/vid_000288_frame0000082_jpg.rf.58ff7f230bf116c19167865ee2ce770d.jpg: 480x480 1 trash_unknown_instance, 6.9ms
+image 263/366 /content/debris_UCM-1/test/images/vid_000289_frame0000021_jpg.rf.611c1006622e19a4f8cb6afbc2c6b989.jpg: 480x480 1 trash_unknown_instance, 6.9ms
+image 264/366 /content/debris_UCM-1/test/images/vid_000289_frame0000035_jpg.rf.fc2f61780818b18228eff8c5dcb5bb7f.jpg: 480x480 1 trash_unknown_instance, 16.8ms
+image 265/366 /content/debris_UCM-1/test/images/vid_000289_frame0000041_jpg.rf.60e6cc4aadace4ccb4327c3d0dbb03be.jpg: 480x480 1 trash_unknown_instance, 7.2ms
+image 266/366 /content/debris_UCM-1/test/images/vid_000289_frame0000047_jpg.rf.b8d02fa753f8d1707c141e16d3eb700f.jpg: 480x480 1 trash_unknown_instance, 7.0ms
+image 267/366 /content/debris_UCM-1/test/images/vid_000289_frame0000067_jpg.rf.6f510eefb0e60efaccffe115874425f5.jpg: 480x480 1 trash_unknown_instance, 7.3ms
+image 268/366 /content/debris_UCM-1/test/images/vid_000290_frame0000005_jpg.rf.ed8266ef99dcc9b2349e4a8e061d0eb5.jpg: 480x480 1 trash_unknown_instance, 7.4ms
+image 269/366 /content/debris_UCM-1/test/images/vid_000291_frame0000050_jpg.rf.9de827121c34fb7d1d3d9d2b2e217dd7.jpg: 480x480 1 rov, 1 trash_unknown_instance, 8.1ms
+image 270/366 /content/debris_UCM-1/test/images/vid_000291_frame0000053_jpg.rf.78fcd0b11a0e3e482ca24de18ccf29f8.jpg: 480x480 1 rov, 1 trash_unknown_instance, 7.4ms
+image 271/366 /content/debris_UCM-1/test/images/vid_000293_frame0000006_jpg.rf.701c905551bd694cd1aacc98f3b2d98a.jpg: 480x480 2 rovs, 1 trash_unknown_instance, 7.3ms
+image 272/366 /content/debris_UCM-1/test/images/vid_000293_frame0000010_jpg.rf.c5610ca7356df43045264b7ad8e1dc9f.jpg: 480x480 1 rov, 7.2ms
+image 273/366 /content/debris_UCM-1/test/images/vid_000294_frame0000003_jpg.rf.276a211e3d385f38c62a92bbbd2ecd7f.jpg: 480x480 1 trash_unknown_instance, 10.3ms
+image 274/366 /content/debris_UCM-1/test/images/vid_000295_frame0000015_jpg.rf.6797a2a0063563351f3ffe6c68ed456b.jpg: 480x480 2 trash_unknown_instances, 7.2ms
+image 275/366 /content/debris_UCM-1/test/images/vid_000295_frame0000016_jpg.rf.5b28e71a3a291a351df0f179216e2c1d.jpg: 480x480 2 trash_unknown_instances, 7.4ms
+image 276/366 /content/debris_UCM-1/test/images/vid_000295_frame0000017_jpg.rf.c5bb6e6e159e097751a9cfcb13d50bb7.jpg: 480x480 2 trash_unknown_instances, 7.1ms
+image 277/366 /content/debris_UCM-1/test/images/vid_000295_frame0000019_jpg.rf.eb3deb988915977386f87e9971141e59.jpg: 480x480 2 trash_unknown_instances, 7.1ms
+image 278/366 /content/debris_UCM-1/test/images/vid_000295_frame0000021_jpg.rf.f60f8d0d220c2006998e02ef783ad5bd.jpg: 480x480 1 trash_unknown_instance, 7.2ms
+image 279/366 /content/debris_UCM-1/test/images/vid_000296_frame0000010_jpg.rf.6c4e6609c6daf30a7335de250c56f2a9.jpg: 480x480 1 trash_unknown_instance, 6.9ms
+image 280/366 /content/debris_UCM-1/test/images/vid_000296_frame0000014_jpg.rf.e27fb6c6bf590099833d3027b9c5ea86.jpg: 480x480 1 trash_unknown_instance, 7.1ms
+image 281/366 /content/debris_UCM-1/test/images/vid_000296_frame0000022_jpg.rf.542505e9efa75e7fe834ffe653d7c171.jpg: 480x480 1 trash_unknown_instance, 7.3ms
+image 282/366 /content/debris_UCM-1/test/images/vid_000296_frame0000032_jpg.rf.76051204d71a258d88ba70331bb1d7ee.jpg: 480x480 1 trash_unknown_instance, 11.2ms
+image 283/366 /content/debris_UCM-1/test/images/vid_000297_frame0000018_jpg.rf.5d33054c47608b874d4e542d2c6ad363.jpg: 480x480 1 rov, 1 trash_unknown_instance, 7.3ms
+image 284/366 /content/debris_UCM-1/test/images/vid_000300_frame0000009_jpg.rf.5aa8dcefd193c1fdf7bfacb12801c5e8.jpg: 480x480 1 trash_unknown_instance, 7.1ms
+image 285/366 /content/debris_UCM-1/test/images/vid_000304_frame0000026_jpg.rf.d86aca8da0d2aafacbd633547c52e329.jpg: 480x480 1 trash_cup, 7.2ms
+image 286/366 /content/debris_UCM-1/test/images/vid_000306_frame0000004_jpg.rf.9fd28baf879ec7f23ce780c76f626a3e.jpg: 480x480 1 trash_unknown_instance, 6.8ms
+image 287/366 /content/debris_UCM-1/test/images/vid_000309_frame0000051_jpg.rf.6aa818b289308b76bddacb7afb8d5c01.jpg: 480x480 1 rov, 1 trash_bag, 6.7ms
+image 288/366 /content/debris_UCM-1/test/images/vid_000309_frame0000055_jpg.rf.0489f1f695bce9730a4b30a5ce2f4219.jpg: 480x480 1 trash_bag, 9.9ms
+image 289/366 /content/debris_UCM-1/test/images/vid_000309_frame0000056_jpg.rf.f7be8e844f2694f887e10d762fbe4248.jpg: 480x480 1 trash_bag, 6.8ms
+image 290/366 /content/debris_UCM-1/test/images/vid_000312_frame0000018_jpg.rf.9c9dffd5b3e434b312c294003a0e117e.jpg: 480x480 1 trash_unknown_instance, 7.3ms
+image 291/366 /content/debris_UCM-1/test/images/vid_000313_frame0000018_jpg.rf.483c1b359c71e452761464869efc8842.jpg: 480x480 1 trash_unknown_instance, 7.2ms
+image 292/366 /content/debris_UCM-1/test/images/vid_000314_frame0000005_jpg.rf.adec6f23ee2eb05230f4b300632bc8f9.jpg: 480x480 1 trash_clothing, 7.1ms
+image 293/366 /content/debris_UCM-1/test/images/vid_000315_frame0000019_jpg.rf.da6ffd678759639a7f680d18e9d9d68c.jpg: 480x480 (no detections), 7.1ms
+image 294/366 /content/debris_UCM-1/test/images/vid_000315_frame0000027_jpg.rf.8bd70fc328577864209fa691404cc5e1.jpg: 480x480 1 rov, 7.0ms
+image 295/366 /content/debris_UCM-1/test/images/vid_000316_frame0000020_jpg.rf.8373d6fd5be4d70b85cea202b3c24e35.jpg: 480x480 1 trash_cup, 6.8ms
+image 296/366 /content/debris_UCM-1/test/images/vid_000319_frame0000001_jpg.rf.90943b44ab315c56300f48c52dfba76f.jpg: 480x480 1 trash_rope, 1 trash_tarp, 2 trash_unknown_instances, 7.2ms
+image 297/366 /content/debris_UCM-1/test/images/vid_000319_frame0000025_jpg.rf.7d542ea597f3923f0bb59edb9c242604.jpg: 480x480 1 plant, 9.4ms
+image 298/366 /content/debris_UCM-1/test/images/vid_000320_frame0000055_jpg.rf.14ffb8c3e18a3c2c8007293479021b41.jpg: 480x480 1 trash_bottle, 1 trash_rope, 6.9ms
+image 299/366 /content/debris_UCM-1/test/images/vid_000331_frame0000211_jpg.rf.da5a7ed86add00d5686729e0274d966a.jpg: 480x480 1 trash_can, 1 trash_container, 6.9ms
+image 300/366 /content/debris_UCM-1/test/images/vid_000331_frame0000269_jpg.rf.7da5b6ffa0dd35f80ef24f4467384ca3.jpg: 480x480 1 trash_container, 7.0ms
+image 301/366 /content/debris_UCM-1/test/images/vid_000331_frame0000277_jpg.rf.8fa63e4c4ce4517cd9959559e88549fb.jpg: 480x480 1 trash_container, 6.9ms
+image 302/366 /content/debris_UCM-1/test/images/vid_000332_frame0000023_jpg.rf.faa02d10b14e224e3462433ad294a6bd.jpg: 480x480 1 rov, 6.8ms
+image 303/366 /content/debris_UCM-1/test/images/vid_000332_frame0000058_jpg.rf.504a576edbc085f1831c0b5d63a0d8d9.jpg: 480x480 1 rov, 1 trash_bag, 11.9ms
+image 304/366 /content/debris_UCM-1/test/images/vid_000332_frame0000117_jpg.rf.df64f9d5d90ddb8ce236efcb0453be49.jpg: 480x480 1 rov, 1 trash_bag, 11.2ms
+image 305/366 /content/debris_UCM-1/test/images/vid_000332_frame0000119_jpg.rf.9b2a5239b6d36fb491c160ee6a502235.jpg: 480x480 1 rov, 6.9ms
+image 306/366 /content/debris_UCM-1/test/images/vid_000332_frame0000121_jpg.rf.f02aaa99f743c312c4c8b4c072fe12e2.jpg: 480x480 1 rov, 7.0ms
+image 307/366 /content/debris_UCM-1/test/images/vid_000333_frame0000007_jpg.rf.9ecf43882d7342bbf05e3fab233130a8.jpg: 480x480 1 rov, 6.8ms
+image 308/366 /content/debris_UCM-1/test/images/vid_000333_frame0000016_jpg.rf.a9c64b72b6fcf375e38d6cc08b6c78e1.jpg: 480x480 1 rov, 7.2ms
+image 309/366 /content/debris_UCM-1/test/images/vid_000334_frame0000005_jpg.rf.1aba854cbf97f7dc7883486c36a005ac.jpg: 480x480 1 trash_bag, 6.8ms
+image 310/366 /content/debris_UCM-1/test/images/vid_000339_frame0000001_jpg.rf.32c80407dd92ab6ef3791400d9981ca2.jpg: 480x480 (no detections), 7.1ms
+image 311/366 /content/debris_UCM-1/test/images/vid_000339_frame0000016_jpg.rf.91679d2ea5f43774fa05ce9ea2d17fc7.jpg: 480x480 1 trash_bag, 7.0ms
+image 312/366 /content/debris_UCM-1/test/images/vid_000343_frame0000026_jpg.rf.bf02efe7388cab749d606f07c70ae23c.jpg: 480x480 2 animal_crabs, 1 trash_unknown_instance, 7.2ms
+image 313/366 /content/debris_UCM-1/test/images/vid_000344_frame0000026_jpg.rf.537a7cfe12b3cbded6f4744cac6aea68.jpg: 480x480 1 trash_bag, 8.9ms
+image 314/366 /content/debris_UCM-1/test/images/vid_000346_frame0000044_jpg.rf.4c8f227a067235cf9fff03e5904d379a.jpg: 480x480 1 trash_unknown_instance, 7.0ms
+image 315/366 /content/debris_UCM-1/test/images/vid_000347_frame0000030_jpg.rf.9e830f88650b779074bf779def0ae98d.jpg: 480x480 (no detections), 7.1ms
+image 316/366 /content/debris_UCM-1/test/images/vid_000347_frame0000033_jpg.rf.ec8cdf214e34bfed1b6ead134f3b4f42.jpg: 480x480 (no detections), 7.1ms
+image 317/366 /content/debris_UCM-1/test/images/vid_000349_frame0000081_jpg.rf.4438774eb279ece7fce8da0b0a513fd9.jpg: 480x480 1 trash_unknown_instance, 6.8ms
+image 318/366 /content/debris_UCM-1/test/images/vid_000350_frame0000009_jpg.rf.b8a1f0c0768268b4a7900f1d0da0d77c.jpg: 480x480 (no detections), 7.6ms
+image 319/366 /content/debris_UCM-1/test/images/vid_000350_frame0000076_jpg.rf.baffa8f279da48328c2ce532c88ca080.jpg: 480x480 (no detections), 7.1ms
+image 320/366 /content/debris_UCM-1/test/images/vid_000350_frame0000110_jpg.rf.8f5be3635151c8561b46fba4d0bf7d16.jpg: 480x480 1 trash_branch, 7.0ms
+image 321/366 /content/debris_UCM-1/test/images/vid_000350_frame0000154_jpg.rf.d4b796dcb1bb85e8e9c4c63799652bc2.jpg: 480x480 1 trash_unknown_instance, 6.8ms
+image 322/366 /content/debris_UCM-1/test/images/vid_000362_frame0000015_jpg.rf.8ca26648ae08fa65f55b2a94cbb78b9b.jpg: 480x480 1 rov, 7.0ms
+image 323/366 /content/debris_UCM-1/test/images/vid_000364_frame0000024_jpg.rf.efce2102b95adf182f7032c49d9330a9.jpg: 480x480 1 trash_unknown_instance, 7.0ms
+image 324/366 /content/debris_UCM-1/test/images/vid_000364_frame0000089_jpg.rf.7e09dc03573bf3068b514fe8aa209c59.jpg: 480x480 1 trash_unknown_instance, 7.1ms
+image 325/366 /content/debris_UCM-1/test/images/vid_000367_frame0000042_jpg.rf.265a694980f50405d84a513604cae64f.jpg: 480x480 (no detections), 6.8ms
+image 326/366 /content/debris_UCM-1/test/images/vid_000368_frame0000048_jpg.rf.3c60f16cb7c98375fbafa04153a9890f.jpg: 480x480 1 trash_unknown_instance, 7.0ms
+image 327/366 /content/debris_UCM-1/test/images/vid_000368_frame0000081_jpg.rf.c3a07d6e3d741ca1519370df936cc705.jpg: 480x480 (no detections), 6.7ms
+image 328/366 /content/debris_UCM-1/test/images/vid_000370_frame0000019_jpg.rf.953af4ee3e52d81e50e8ceca4aff2209.jpg: 480x480 (no detections), 6.8ms
+image 329/366 /content/debris_UCM-1/test/images/vid_000370_frame0000042_jpg.rf.e0e51231c00fe0b75f6bb7a9b49a920e.jpg: 480x480 (no detections), 6.9ms
+image 330/366 /content/debris_UCM-1/test/images/vid_000422_frame0000048_jpg.rf.e4f5e796bcf6255310ca8657083fc0e7.jpg: 480x480 1 animal_etc, 7.0ms
+image 331/366 /content/debris_UCM-1/test/images/vid_000423_frame0000009_jpg.rf.782674e1aad0b0603fbf7ece80f12d69.jpg: 480x480 2 animal_eels, 6.7ms
+image 332/366 /content/debris_UCM-1/test/images/vid_000424_frame0000021_jpg.rf.c720f1f3853dd8d5c095e3889f10abf8.jpg: 480x480 1 animal_eel, 6.7ms
+image 333/366 /content/debris_UCM-1/test/images/vid_000428_frame0000017_jpg.rf.e56927cd5d3ead372bd8d0d96486c35d.jpg: 480x480 1 animal_eel, 18.3ms
+image 334/366 /content/debris_UCM-1/test/images/vid_000429_frame0000020_jpg.rf.84e47242b4c440ce65cd945e2e742bbc.jpg: 480x480 1 animal_fish, 7.1ms
+image 335/366 /content/debris_UCM-1/test/images/vid_000431_frame0000005_jpg.rf.c72c075a0c25355130e53d4867962e77.jpg: 480x480 1 animal_fish, 6.9ms
+image 336/366 /content/debris_UCM-1/test/images/vid_000431_frame0000019_jpg.rf.02d1107c43f8d8db8340cef3f469c548.jpg: 480x480 1 animal_fish, 6.7ms
+image 337/366 /content/debris_UCM-1/test/images/vid_000431_frame0000023_jpg.rf.a4148ded017dddf513abb70de325ccf1.jpg: 480x480 1 animal_fish, 6.9ms
+image 338/366 /content/debris_UCM-1/test/images/vid_000431_frame0000041_jpg.rf.531c17d1cb754ff3f3e8069da5027da1.jpg: 480x480 1 animal_fish, 6.7ms
+image 339/366 /content/debris_UCM-1/test/images/vid_000431_frame0000045_jpg.rf.e1a54ca91f3b8888e7cec20b25642c7c.jpg: 480x480 1 animal_fish, 6.9ms
+image 340/366 /content/debris_UCM-1/test/images/vid_000432_frame0000029_jpg.rf.9df8b8f671018969e7c614fd193f9d7b.jpg: 480x480 1 animal_etc, 10.7ms
+image 341/366 /content/debris_UCM-1/test/images/vid_000434_frame0000041_jpg.rf.ad5282a916208f0cd28709b95090400e.jpg: 480x480 2 animal_fishs, 7.3ms
+image 342/366 /content/debris_UCM-1/test/images/vid_000436_frame0000029_jpg.rf.f58f4831bd88b42f077f4a983c5f0343.jpg: 480x480 1 animal_fish, 7.1ms
+image 343/366 /content/debris_UCM-1/test/images/vid_000437_frame0000013_jpg.rf.2c800d89fec15a58f422148ab8ef235d.jpg: 480x480 1 animal_fish, 1 trash_unknown_instance, 6.8ms
+image 344/366 /content/debris_UCM-1/test/images/vid_000437_frame0000040_jpg.rf.fb16ee5591edc223687038605d71636d.jpg: 480x480 1 animal_fish, 3 trash_unknown_instances, 6.7ms
+image 345/366 /content/debris_UCM-1/test/images/vid_000438_frame0000036_jpg.rf.6bc1617a39e7b33604c8881ac106ca9e.jpg: 480x480 1 animal_fish, 7.4ms
+image 346/366 /content/debris_UCM-1/test/images/vid_000439_frame0000036_jpg.rf.fb668ebf73f3d29975ceccfcf5c90f92.jpg: 480x480 1 animal_fish, 6.7ms
+image 347/366 /content/debris_UCM-1/test/images/vid_000440_frame0000104_jpg.rf.43194334473362363e12d19488228ecd.jpg: 480x480 1 animal_fish, 7.5ms
+image 348/366 /content/debris_UCM-1/test/images/vid_000440_frame0000116_jpg.rf.4ee8aeb1a4a86410b7e78cdd6b3bbcc9.jpg: 480x480 1 animal_fish, 6.9ms
+image 349/366 /content/debris_UCM-1/test/images/vid_000440_frame0000117_jpg.rf.8eccb8afa4e6f8e588bf37808f080389.jpg: 480x480 1 animal_fish, 7.1ms
+image 350/366 /content/debris_UCM-1/test/images/vid_000442_frame0000001_jpg.rf.e5515d82d23bbcad9440cb90013cc4d3.jpg: 480x480 1 animal_crab, 1 rov, 7.1ms
+image 351/366 /content/debris_UCM-1/test/images/vid_000443_frame0000003_jpg.rf.7c33d65d3c3d7f742e320dfd5c8430ea.jpg: 480x480 2 animal_crabs, 6.9ms
+image 352/366 /content/debris_UCM-1/test/images/vid_000501_frame0000004_jpg.rf.72e701683768d1ba702e9f9a6696e011.jpg: 480x480 7 animal_eels, 2 animal_starfishs, 7.0ms
+image 353/366 /content/debris_UCM-1/test/images/vid_000501_frame0000011_jpg.rf.c12e18fa62d64c20939d9c3c4c71fff7.jpg: 480x480 5 animal_eels, 2 animal_starfishs, 8.4ms
+image 354/366 /content/debris_UCM-1/test/images/vid_000531_frame0000009_jpg.rf.ecc8df1e68a2be5d6326dc77f55b4538.jpg: 480x480 1 trash_can, 7.1ms
+image 355/366 /content/debris_UCM-1/test/images/vid_000532_frame0000042_jpg.rf.9d3dfc24ed9684bff5cca20d80ebc7e4.jpg: 480x480 1 animal_fish, 9.9ms
+image 356/366 /content/debris_UCM-1/test/images/vid_000532_frame0000150_jpg.rf.40cc9263c3ddd0e94f42f859b50ecb92.jpg: 480x480 1 trash_bottle, 13.3ms
+image 357/366 /content/debris_UCM-1/test/images/vid_000539_frame0000071_jpg.rf.ba66457c32b4da0fd9e7f1f7f62a321d.jpg: 480x480 1 trash_bag, 1 trash_can, 7.2ms
+image 358/366 /content/debris_UCM-1/test/images/vid_000547_frame0000009_jpg.rf.5a880be6743edac7bc868db79be576f3.jpg: 480x480 1 trash_unknown_instance, 7.2ms
+image 359/366 /content/debris_UCM-1/test/images/vid_000547_frame0000011_jpg.rf.2e53036a331c89f4a06c380e4b88643f.jpg: 480x480 1 trash_unknown_instance, 7.3ms
+image 360/366 /content/debris_UCM-1/test/images/vid_000547_frame0000014_jpg.rf.96900308e96dbb3d4b9388a4021350fa.jpg: 480x480 1 trash_unknown_instance, 10.3ms
+image 361/366 /content/debris_UCM-1/test/images/vid_000548_frame0000013_jpg.rf.e3ceca1e65937effff782079aaa8a8cb.jpg: 480x480 1 trash_unknown_instance, 8.8ms
+image 362/366 /content/debris_UCM-1/test/images/vid_000551_frame0000103_jpg.rf.7064749c0cde9e435dc6c029f47c4716.jpg: 480x480 1 animal_crab, 8.0ms
+image 363/366 /content/debris_UCM-1/test/images/vid_000552_frame0000114_jpg.rf.febd43a49b3bdf93fe5308defbf09272.jpg: 480x480 1 trash_branch, 11.1ms
+image 364/366 /content/debris_UCM-1/test/images/vid_000553_frame0000012_jpg.rf.9a783882d2f75f43072fcc26585641c2.jpg: 480x480 1 trash_can, 7.3ms
+image 365/366 /content/debris_UCM-1/test/images/vid_000553_frame0000023_jpg.rf.0b3fa91b20df0b43f74a4b9f60796b6d.jpg: 480x480 1 trash_can, 7.1ms
+image 366/366 /content/debris_UCM-1/test/images/vid_000555_frame0000021_jpg.rf.dbb498b1667e0802694ac443c805acff.jpg: 480x480 1 trash_clothing, 7.1ms
